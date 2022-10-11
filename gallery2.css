@@ -1,0 +1,50 @@
+h1{
+    color: aliceblue;
+    
+    margin-left: 600px;
+    
+}
+img{
+    height: 500px;
+    width: 296px;
+}
+.row{
+    height: 1000px;
+    width: auto;
+    background-color: black;
+    position: relative;
+}
+.col
+{
+    height: 950px;
+    width: 300px;
+position: absolute;
+border: whitesmoke 2px dotted;
+top: 43px;
+}
+.col-1{
+left: 3px;
+}
+.col-2{
+    left: 308px;
+
+}
+.col-3{
+left: 616px;
+}
+.col-4{
+    left: 924px;
+}
+.col-5{
+    left: 1232px;
+}
+pre,p{
+    color: antiquewhite;
+}
+#b1{
+border:whitesmoke 2px double;
+text-align: center;
+position: absolute;
+width: 296px;
+bottom: 20px;
+}
